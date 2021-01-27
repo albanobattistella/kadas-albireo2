@@ -304,23 +304,23 @@
     </message>
     <message>
         <source>Copy position</source>
-        <translation type="vanished">Copia posizione</translation>
+        <translation>Copia posizione</translation>
     </message>
     <message>
         <source>Convert to waypoint</source>
-        <translation type="vanished">Converti in waypoint</translation>
+        <translation>Converti in waypoint</translation>
     </message>
     <message>
         <source>Convert to pin</source>
-        <translation type="vanished">Converti in spillo</translation>
+        <translation>Converti in spillo</translation>
     </message>
     <message>
         <source>Convert to polygon</source>
-        <translation type="vanished">Converti in poligono</translation>
+        <translation>Converti in poligono</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="vanished">Taglia</translation>
+        <translation>Taglia</translation>
     </message>
     <message>
         <location filename="../kadas/app/kadascanvascontextmenu.cpp" line="66"/>
@@ -329,7 +329,7 @@
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Elimina</translation>
+        <translation>Elimina</translation>
     </message>
     <message>
         <location filename="../kadas/app/kadascanvascontextmenu.cpp" line="80"/>
@@ -459,11 +459,11 @@
     </message>
     <message>
         <source>Vertex Count</source>
-        <translation type="vanished">Numero di vertici</translation>
+        <translation>Numero di vertici</translation>
     </message>
     <message>
         <source>Number of polygon vertices:</source>
-        <translation type="vanished">Numero di vertici del poligono:</translation>
+        <translation>Numero di vertici del poligono:</translation>
     </message>
 </context>
 <context>
@@ -532,11 +532,11 @@
     <name>KadasCoordinateFormat</name>
     <message>
         <source>No heightmap is defined in the project.</source>
-        <translation type="vanished">Nessun modello di elevazione è specificato nel progetto.</translation>
+        <translation>Nessun modello di elevazione è specificato nel progetto.</translation>
     </message>
     <message>
         <source>Right-click a raster layer in the layer tree and select it to be used as heightmap.</source>
-        <translation type="vanished">Seleziona un layer raster da usare come modello di elevazione dal menu contestuale del layer.</translation>
+        <translation>Seleziona un layer raster da usare come modello di elevazione dal menu contestuale del layer.</translation>
     </message>
     <message>
         <location filename="../kadas/core/kadascoordinateformat.cpp" line="143"/>
@@ -545,7 +545,7 @@
     </message>
     <message>
         <source>Failed to open raster file: %1</source>
-        <translation type="vanished">Impossibile aprire il file raster: %1</translation>
+        <translation>Impossibile aprire il file raster: %1</translation>
     </message>
     <message>
         <location filename="../kadas/core/kadascoordinateformat.cpp" line="159"/>
@@ -1099,7 +1099,7 @@
     </message>
     <message>
         <source>Lighting</source>
-        <translation type="vanished">Illuminazione</translation>
+        <translation>Illuminazione</translation>
     </message>
     <message>
         <location filename="../kadas/app/globe/kadasglobevectorlayerproperties.ui" line="238"/>
@@ -1286,7 +1286,7 @@
     </message>
     <message>
         <source>Size:</source>
-        <translation type="vanished">Dimensione:</translation>
+        <translation>Dimensione:</translation>
     </message>
 </context>
 <context>
@@ -1568,11 +1568,11 @@
     </message>
     <message>
         <source>No heightmap is defined in the project.</source>
-        <translation type="vanished">Nessun modello di elevazione è specificato nel progetto.</translation>
+        <translation>Nessun modello di elevazione è specificato nel progetto.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Errore</translation>
+        <translation>Errore</translation>
     </message>
     <message>
         <source>Failed to open raster file: %1</source>
@@ -1583,7 +1583,7 @@
     <name>KadasIamAuth</name>
     <message>
         <source>eIAM Authentication</source>
-        <translation type="vanished">Autenticazione eIAM</translation>
+        <translation>Autenticazione eIAM</translation>
     </message>
     <message>
         <location filename="../kadas/app/iamauth/kadasiamauth.cpp" line="140"/>
@@ -2681,7 +2681,7 @@
     <message>
         <location filename="../kadas/app/ui/kadaslayoutdesignerbase.ui" line="943"/>
         <source>Resize to &amp;Tallest</source>
-        <translation>Ridimensiona al  &amp;più alto</translation>
+        <translation>Ridimensiona al &amp;più alto</translation>
     </message>
     <message>
         <location filename="../kadas/app/ui/kadaslayoutdesignerbase.ui" line="946"/>
@@ -3353,11 +3353,11 @@ Prova una risoluzione minore o una minor dimensione di pagina.</translation>
     </message>
     <message>
         <source>On the fly projection enabled</source>
-        <translation type="vanished">Proiezione al volo automatica attivata</translation>
+        <translation>Proiezione al volo automatica attivata</translation>
     </message>
     <message>
         <source>The following layers are being reprojected to the selected CRS: %1. Performance may suffer.</source>
-        <translation type="vanished">I seguenti layer sono reprojettati al SR selezionato: %1. La prestazione potrebbe essere ridotta.</translation>
+        <translation>I seguenti layer sono reprojettati al SR selezionato: %1. La prestazione potrebbe essere ridotta.</translation>
     </message>
     <message>
         <location filename="../kadas/app/kadasmainwindow.cpp" line="995"/>
@@ -3802,7 +3802,7 @@ Prova una risoluzione minore o una minor dimensione di pagina.</translation>
     </message>
     <message>
         <source>Failed to compute viewshed.</source>
-        <translation type="vanished">Errore durante il calcolo del bacino visuale.</translation>
+        <translation>Errore durante il calcolo del bacino visuale.</translation>
     </message>
 </context>
 <context>
@@ -4214,7 +4214,7 @@ Prova una risoluzione minore o una minor dimensione di pagina.</translation>
     <name>KadasMilxLibraryLoader</name>
     <message>
         <source>More Symbols...</source>
-        <translation type="vanished">Altri simboli...</translation>
+        <translation>Altri simboli...</translation>
     </message>
 </context>
 <context>
@@ -4236,7 +4236,7 @@ Prova una risoluzione minore o una minor dimensione di pagina.</translation>
     </message>
     <message>
         <source>Unable to compute input window</source>
-        <translation type="vanished">Impossibile calcolare la finestra di sorgente</translation>
+        <translation>Impossibile calcolare la finestra di sorgente</translation>
     </message>
     <message>
         <location filename="../kadas/analysis/kadasninecellfilter.cpp" line="84"/>
@@ -4562,7 +4562,7 @@ Prova una risoluzione minore o una minor dimensione di pagina.</translation>
     </message>
     <message>
         <source>Border width:</source>
-        <translation type="vanished">Spessore bordo:</translation>
+        <translation>Spessore bordo:</translation>
     </message>
 </context>
 <context>
